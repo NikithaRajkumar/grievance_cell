@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /submit-grievance
+
+Sitemap: https://your-domain.com/sitemap.xml
